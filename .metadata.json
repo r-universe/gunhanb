@@ -1,0 +1,10 @@
+[
+  {
+    "package": "MetaStan",
+    "oncran": true
+  },
+  {
+    "package": "nmaINLA",
+    "oncran": true
+  }
+]
