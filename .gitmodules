@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MetaStan"]
-	path = MetaStan
-	url = https://github.com/gunhanb/metastan
-	shallow = true
-	registered = true
 [submodule "nmaINLA"]
 	path = nmaINLA
 	url = https://github.com/gunhanb/nmainla
