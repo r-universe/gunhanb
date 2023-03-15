@@ -1,10 +1,10 @@
 [
   {
-    "package": "nmaINLA",
+    "package": "MetaStan",
     "oncran": true
   },
   {
-    "package": "MetaStan",
+    "package": "nmaINLA",
     "oncran": true
   }
 ]
